@@ -1,2 +1,3 @@
-# gh-actions-demo
-This repo is for demosntrating GitHub actions for CI/CD testing and deployment
+# GitHub Actions Demo
+
+This repo is for demonstrating GitHub actions for CI/CD testing and deployment.
